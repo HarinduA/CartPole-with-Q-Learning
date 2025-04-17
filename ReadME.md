@@ -11,4 +11,15 @@ An AI bot that learns to play the classic **CartPole-v1** game using **Reinforce
 - Optionally renders live gameplay after training
 
 ---
+# 📦 Dependencies
+To run this project, you'll need the following Python packages:
+
+numpy: For numerical computations
+
+- gym: For the CartPole environment
+- matplotlib: For plotting training rewards
+- pandas: (Optional) For storing training logs and analysis
+- seaborn: (Optional) For enhanced visualizations
+- random: For exploration during training
+- time: For rendering and timing operations
 
